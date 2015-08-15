@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+sh /usr/share/blackboard/Linux_Start.sh
